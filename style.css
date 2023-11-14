@@ -1,0 +1,18 @@
+body{
+     margin: 0;
+     padding: 0;
+     background: #9c2970;
+}
+.circle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: 400px;
+    background: #6a037b;
+    border-radius: 50%;
+    border: 5px solid #fff;
+     box-shadow: 0 20px 100px rgba(0,0,0,.5);
+    
+}
